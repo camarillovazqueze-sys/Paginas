@@ -1,0 +1,12 @@
+body {
+  background-color: rgb(14, 52, 67); /* celeste */
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.INDEX {
+  background: rgb(172, 86, 86);
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgb(47, 33, 33);
+}
